@@ -1,7 +1,7 @@
-de994a43d48dfa8a121dae5a7229e019 *DESCRIPTION
+f23592268df34182f537bf108207aec9 *DESCRIPTION
 73dc907b9f2d20015786a7f40e3c9ff3 *LICENSE
 8455034c510f6eb4a7d0138bdc8bf388 *NAMESPACE
-febc4f16aef430c1874b458acd854db4 *NEWS.md
+79742c833bd393ef53b70f28e0afed3f *NEWS.md
 fc1df8ec568e0a5bffce61246e49fda6 *R/default_parameters.R
 3d6562ccf846ec332f11721c29b2e6c5 *R/deme.R
 49237c9da65f080f76e700ccb7c85f05 *R/ecr_metaepoch.R
@@ -13,7 +13,7 @@ d0c0a927ff4ac81645b91cd8a34322ef *R/gradient_method.R
 7435d1418df96e2d840ac44493329794 *R/local_stopping_condition.R
 090571a3a944b647cc3d6f1d1e9b2d9e *R/monitor.R
 5edb83f801232dd3cfc5dd231daa6434 *R/mutation.R
-a86b8004cd5dc57c2678dcdb2df301e5 *R/sprouting_condition.R
+4d1dfb9926192878f86bd0496387fac0 *R/sprouting_condition.R
 244cb4d5e17add77244f1eacfd1a961d *R/start_message.R
 4e0d2b6b1da5e97ff3541668e52081ed *R/utils.R
 8cd69edc16de2228aa1b3fe3d986b0dc *README.md
@@ -45,7 +45,7 @@ daf8cf3efafa4e09e8edc04f0871cba4 *man/printTree-hms-method.Rd
 1f9ff3f729689c9f4ffd0e18ec332d66 *man/rtnorm_mutation.Rd
 5a2ff369f9bccefb467c03bc8f789e9b *man/saveMetaepochsPopulations-hms-method.Rd
 0d381df3ee7417ad9f89859aaafad69a *man/saveMetaepochsPopulations.Rd
-b43e679550aefba7795ee68abc2664aa *man/sc_max_metric.Rd
+1d357668ff1175bfa181381f5671f98e *man/sc_max_metric.Rd
 0e2688bf28f6b8b5f47f9acbc7615260 *man/show-hms-method.Rd
 773119a2e12336093e33a5adccd2da3a *man/summary-hms-method.Rd
 252721a9d7c533dcd82621cc2c002fba *tests/testthat.R
@@ -54,6 +54,6 @@ b43e679550aefba7795ee68abc2664aa *man/sc_max_metric.Rd
 e2fa661300951d7b2f022236b390ad15 *tests/testthat/test-deme.R
 d1707ade2a47cf027c0bf2375f02ddb2 *tests/testthat/test-hms-class.R
 c090441b9f74dc7206f8c284018065f7 *tests/testthat/test-hms-validation.R
-23ae268be941b9f6bcc8d160740302ba *tests/testthat/test-hms.R
+36a7d281e8101a8c257993772a8c8dfa *tests/testthat/test-hms.R
 cce5f003799884e00d4c5b640479831f *tests/testthat/test-monitor.R
 b245f96417f0faf8a243beff17a9dfbb *tests/testthat/test-utils.R
